@@ -26,5 +26,5 @@
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
 3. Place the file in the repository folder. 
-4. Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
+4. Follow the instructions in `Navigation.ipynb`!  
 
