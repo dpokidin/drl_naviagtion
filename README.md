@@ -11,7 +11,6 @@
  * Fixed target (borrowed from DQN)
  * Double DQN (implemented myself)
  * Prioritized experience (implemented myself)
-  My agent 
 
 ### Instructions
 1. Clone/download this repository
